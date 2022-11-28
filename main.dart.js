@@ -35776,7 +35776,7 @@ return A.mc(r,!0).tJ(A.apo(B.B,!0,null,new A.a_T(this.a),r,null,s,!0,t.z))},
 $S:0}
 A.a_T.prototype={
 $1(a){var s=null,r=this.a,q=A.mr("[a-zA-Z\\s]",!0),p=$.ajV(),o=t.VS,n=t.p
-return new A.np(B.Lh,A.kE(A.cf(A.b([B.hc,A.af0(r.e,A.b([new A.us(40,s),new A.tD(q,!0,""),p],o),"Patient's name"),B.un,A.af0(r.f,A.b([new A.us(120,s),p],o),"Feedback link")],n),B.V,B.w,B.x),190,s),A.b([A.fY(!1,!0,A.bg(B.E,B.Lp,B.l,s,s,A.As(B.fW.h(0,400),!1,!1,!1,!0,!0),s,40,s,s,s,s,150),s,!0,s,s,s,s,s,s,s,s,s,new A.a_S(r,a),s,s,s)],n),s)},
+return new A.np(B.Lh,A.kE(A.cf(A.b([B.hc,A.af0(r.e,A.b([new A.us(40,s),new A.tD(q,!0,""),p],o),"Patient's name"),B.un,A.af0(r.f,A.b([new A.us(300,s),p],o),"Feedback link")],n),B.V,B.w,B.x),200,200),A.b([A.fY(!1,!0,A.bg(B.E,B.Lp,B.l,s,s,A.As(B.fW.h(0,400),!1,!1,!1,!0,!0),s,40,s,s,s,s,150),s,!0,s,s,s,s,s,s,s,s,s,new A.a_S(r,a),s,s,s)],n),s)},
 $S:139}
 A.a_S.prototype={
 $0(){var s=this.a
